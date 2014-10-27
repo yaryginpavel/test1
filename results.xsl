@@ -39,7 +39,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             </xsl:if>
           </td>
         </xsl:when>
-        <xsl:when test="$result+$bonus&gt;'20'">
+        <xsl:when test="$result+$bonus&gt;'19'">
           <td bgcolor="#00ff00"><xsl:value-of select="$result"/>
             <xsl:if test="bonus&gt;0">
               <xsl:text>+</xsl:text><xsl:value-of select="$bonus"/>

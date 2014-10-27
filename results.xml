@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <test>
   <group id="К6-361">
-    <student name="Анисимова Наталья" login="">
+    <student name="Анисимова Наталья" login="Anisimova-Nataly">
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>0</task>
+      <task>0</task>
+      <task>0.5</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <bonus comment='Использование перечислений в схеме'>1</bonus>
     </student>
     <student name="Артемьев Дмитрий" login="DmitriArtemyev">
       <task>1</task>
