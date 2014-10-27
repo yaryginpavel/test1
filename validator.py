@@ -10,7 +10,7 @@ def schema_validation(xml_file, xsd_file):
   schema = ctxt.schemaParse()
   validationCtxt = schema.schemaNewValidCtxt()
   res = validationCtxt.schemaValidateFile(xml_file, 0)
-  if res == 0:
+  if res != 0:
     print "VALIDATION FAILED"
   else:
     print "VALIDATED"  
