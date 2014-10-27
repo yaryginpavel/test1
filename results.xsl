@@ -27,18 +27,31 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="student">
     <xsl:variable name="result" select="sum(task)"/>
+    <xsl:variable name="bonus" select="sum(bonus)"/>
     <tr>
       <td align="center"><xsl:value-of select="position()"/></td>
       <td><xsl:value-of select="@name"/></td>
       <xsl:choose>
-        <xsl:when test="$result&lt;'15'">
-          <td bgcolor="#ff0000"><xsl:value-of select="$result"/></td>
+        <xsl:when test="$result+$bonus&lt;'15'">
+          <td bgcolor="#ff0000"><xsl:value-of select="$result"/>
+            <xsl:if test="bonus&gt;0">
+              <xsl:text>+</xsl:text><xsl:value-of select="$bonus"/>
+            </xsl:if>
+          </td>
         </xsl:when>
-        <xsl:when test="$result&gt;'20'">
-          <td bgcolor="#00ff00"><xsl:value-of select="$result"/></td>
+        <xsl:when test="$result+$bonus&gt;'20'">
+          <td bgcolor="#00ff00"><xsl:value-of select="$result"/>
+            <xsl:if test="bonus&gt;0">
+              <xsl:text>+</xsl:text><xsl:value-of select="$bonus"/>
+            </xsl:if>
+          </td>
         </xsl:when>
         <xsl:otherwise>
-          <td bgcolor="#ffff00"><xsl:value-of select="$result"/></td>
+          <td bgcolor="#ffff00"><xsl:value-of select="$result"/>
+            <xsl:if test="bonus&gt;0">
+              <xsl:text>+</xsl:text><xsl:value-of select="$bonus"/>
+            </xsl:if>
+          </td>
         </xsl:otherwise>
       </xsl:choose>
     </tr>

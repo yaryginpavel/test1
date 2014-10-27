@@ -298,32 +298,33 @@
       <task>0</task>
       <task>0</task>
     </student>
-    <student name="Титоренко Алексей" login="">
+    <student name="Титоренко Алексей" login="atitorenko">
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <bonus comment="Работающая схема">5</bonus>
     </student>
     <student name="Штанько Александр" login="">
       <task>0</task>
