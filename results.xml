@@ -137,31 +137,31 @@
       <task>0</task>
     </student>
     <student name="Михеев Денис" login="">
+      <task>1</task>
+      <task>0</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
     </student>
     <student name="Пивоваров Александр" login="Alexander-Pivovarov">
       <task>1</task>
@@ -217,32 +217,33 @@
       <task>0</task>
       <task>1</task>
     </student>
-    <student name="Соловьёва Анна" login="">
+    <student name="Соловьёва Анна" login="SolovyovaAnya">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <bonus comment='Использование перечислений в схеме'>1</bonus>
     </student>
     <student name="Суханова Любовь" login="Lubov-Sukhanova">
       <task>1</task>
