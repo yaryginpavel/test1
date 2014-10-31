@@ -328,7 +328,7 @@
       <task>0</task>
       <task>0</task>
       <task>1</task>
-      <bonus comment="Работающая схема">5</bonus>
+      <bonus comment="Работающая схема">3</bonus>
     </student>
     <student name="Штанько Александр Николаевич" login="Shtanko-mephi">
       <task>1</task>
@@ -357,7 +357,7 @@
       <task>0.5</task>
       <task>1</task>
       <bonus comment="Использование перечислений в схеме">1</bonus>
-      <bonus comment="Работающая схема">5</bonus>
+      <bonus comment="Работающая схема">3</bonus>
     </student>
   </group>
   <group id="К6-362">
@@ -388,9 +388,24 @@
       <task>0</task>
       <task>1</task>
       <bonus comment="Использование перечислений в схеме">1</bonus>
-      <bonus comment="Работающая схема">5</bonus>
+      <bonus comment="Работающая схема">3</bonus>
     </student>
-    <student name="Галкин Александр" login="">
+    <student name="Галкин Александр" login="alex609">
+      <task>1</task>
+      <task>0.5</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -400,22 +415,9 @@
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <bonus comment="Использование перечислений в схеме">1</bonus>
+      <bonus comment="Работающая схема">3</bonus>
     </student>
     <student name="Головко Ирина" login="">
       <task>0</task>
@@ -688,32 +690,32 @@
       <task>0</task>
       <task>0</task>
     </student>
-    <student name="Редюк Сергей" login="">
+    <student name="Редюк Сергей" login="Sergred">
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0</task>
+      <task>0</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
     </student>
     <student name="Рябов Пётр" login="">
       <task>0</task>
