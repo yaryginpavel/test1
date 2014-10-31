@@ -420,41 +420,43 @@
       <bonus comment="Работающая схема">3</bonus>
     </student>
     <student name="Головко Ирина" login="">
+      <task>1</task>
+      <task>0</task>
+      <task>0</task>
+      <task>0</task>
+      <task>0.5</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <bonus comment='Использование перечислений в схеме'>1</bonus>
+      <bonus comment="Работающая схема">3</bonus>
     </student>
     <student name="Джумайло Евгений" login="">
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -528,6 +530,14 @@
       <task>0</task>
     </student>
     <student name="Левин Андрей" login="">
+      <task>1</task>
+      <task>0</task>
+      <task>0</task>
+      <task>0</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -535,18 +545,10 @@
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -583,6 +585,14 @@
       <bonus comment="Работающая схема">3</bonus>
     </student>
     <student name="Моряшова Виктория" login="">
+      <task>1</task>
+      <task>0</task>
+      <task>0</task>
+      <task>0</task>
+      <task>0.5</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -590,18 +600,10 @@
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -637,12 +639,12 @@
       <task>0</task>
     </student>
     <student name="Пурик Яна" login="">
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -664,14 +666,14 @@
       <task>0</task>
     </student>
     <student name="Разживин Никита" login="">
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -717,7 +719,23 @@
       <task>0</task>
       <task>1</task>
     </student>
-    <student name="Рябов Пётр" login="">
+    <student name="Рябов Пётр" login="rain8841">
+      <task>1</task>
+      <task>0.5</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>0</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -726,33 +744,19 @@
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <bonus comment="Использование перечислений в схеме">1</bonus>
+      <bonus comment="Работающая схема">3</bonus>
     </student>
     <student name="Скок Дарья" login="">
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>0.5</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -799,6 +803,14 @@
       <task>0</task>
     </student>
     <student name="Чайковская Александра" login="">
+      <task>1</task>
+      <task>0.5</task>
+      <task>0</task>
+      <task>0</task>
+      <task>1</task>
+      <task>0.5</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
@@ -806,16 +818,8 @@
       <task>0</task>
       <task>0</task>
       <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
-      <task>0</task>
+      <task>1</task>
+      <task>1</task>
       <task>0</task>
       <task>0</task>
       <task>0</task>
